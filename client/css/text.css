@@ -1,0 +1,32 @@
+html,
+body {
+    font-family: 'PT Sans', sans-serif;
+}
+
+.title-text {
+    font-size: 20px;
+}
+
+text {
+  font: 10px sans-serif;
+}
+
+.white-bg {
+    text-align: center;
+}
+
+.graph-title {
+    padding-top: 10px;
+}
+
+.topic-nav {
+    cursor: pointer;
+}
+
+.topic-nav:hover {
+    text-decoration: underline;
+}
+
+.answers {
+    text-indent: 50px;
+}
