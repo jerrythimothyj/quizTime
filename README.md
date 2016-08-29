@@ -6,6 +6,7 @@
 	* Do not download version 7
 
 	-> If you have installed XAMPP on C:, then go to C:\xampp\htdocs\ and press shift + right click and select 'Open command window here'
+		> To test git, type 'git status', if it says git is not recognized, then search for GIT Shell in your system and open the same and navigate to your folder using 'cd PATHTOFOLDER' and then type 'git status'
 	-> Type 'git clone https://github.com/jerrythimothyj/quizTime.git'
 	-> Now you should find a folder called 'quizTime'
 	-> Type 'cd quizTime'
